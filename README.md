@@ -34,6 +34,13 @@ Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram
 4. Enable discussion handling or autoresponder logic if needed.
 5. Assign accounts and start the task.
 
+## Useful combinations around this module
+
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en) if you need to prepare the working account grid first.
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en) if the scenario depends on AI providers and shared system parameters.
+- [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) if comments should become follow-up conversations.
+- [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) if you also build a collection layer for the next workflows.
+
 ## Interface highlights
 
 ### Comment builder
@@ -70,6 +77,8 @@ Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
 - [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en)
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
+- [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
+- [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
 
 ## FAQ
 
