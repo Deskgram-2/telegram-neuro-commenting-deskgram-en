@@ -41,6 +41,13 @@ Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram
 - [Direct Messaging](https://github.com/Deskgram-2/telegram-direct-messaging-deskgram-en) if comments should become follow-up conversations.
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en) if you also build a collection layer for the next workflows.
 
+## What this execution path often connects to next
+
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en) if you want centralized control over errors and progress.
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en) if the account environment should be prepared before or alongside commenting.
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en) if commenting is part of a broader growth chain built around prepared communities.
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) if execution stability depends on the infrastructure layer.
+
 ## Interface highlights
 
 ### Comment builder
@@ -79,6 +86,10 @@ Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram
 - [Audience Parser](https://github.com/Deskgram-2/telegram-audience-parser-deskgram-en)
 - [Account Manager](https://github.com/Deskgram-2/telegram-account-manager-deskgram-en)
 - [Automation Settings](https://github.com/Deskgram-2/telegram-automation-settings-deskgram-en)
+- [Task Manager](https://github.com/Deskgram-2/telegram-task-manager-deskgram-en)
+- [Join Groups](https://github.com/Deskgram-2/telegram-join-groups-deskgram-en)
+- [Invite Tool](https://github.com/Deskgram-2/telegram-invite-tool-deskgram-en)
+- [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
 
 ## FAQ
 
