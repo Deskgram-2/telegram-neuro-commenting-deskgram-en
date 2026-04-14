@@ -79,6 +79,29 @@ Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram
 | Scaling across many accounts is messy | The workflow is designed for account grids |
 | Follow-up replies are easy to lose | Autoresponder logic can extend the scenario |
 
+## What to choose: Neuro Commenting or Neuro Chatting
+
+| If your goal is | Better fit |
+|---|---|
+| React to new channel posts and discussion threads | [Neuro Commenting](https://github.com/Deskgram-2/telegram-neuro-commenting-deskgram-en) |
+| Run AI conversations inside chats and groups | [Neuro Chatting](https://github.com/Deskgram-2/telegram-neuro-chatting-deskgram) |
+| Start from comments and then move into deeper dialog | Neuro Commenting first, then Neuro Chatting |
+| Build an AI layer across several touchpoints | Use both modules in one chain |
+
+## Scenario FAQ
+
+### Which text mode should I choose: template, rewrite, or AI?
+
+Templates work well for repeatable and tightly controlled flows. Rewrite mode helps when you want more variety without losing the original structure. AI mode is stronger when comments should feel more native to the post content and less generic.
+
+### When is autoresponder worth enabling?
+
+When comments are used as the first step of a larger communication flow instead of just a visibility layer. In that case autoresponder helps turn replies into longer interactions.
+
+### What kind of setup should exist before launch?
+
+The best baseline is prepared accounts, checked shared settings, and at least minimal infrastructure stability. If the commenting volume is higher, it is safer to review [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en) and the account grid first.
+
 ## Related repositories
 
 - [Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en)
