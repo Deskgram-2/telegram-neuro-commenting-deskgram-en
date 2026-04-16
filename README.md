@@ -11,6 +11,8 @@ Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram
 
 Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
 
+If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
+
 
 
 ## About the module
@@ -122,6 +124,11 @@ The best baseline is prepared accounts, checked shared settings, and at least mi
 - [Proxy Manager](https://github.com/Deskgram-2/telegram-proxy-manager-deskgram-en)
 
 ## FAQ
+
+
+### Can I look at the interface before installing anything?
+
+Yes. This README already includes a direct web preview link, so you can open the module in the browser, inspect the section, and decide whether it matches your workflow before installation and account setup.
 
 ### Is AI required?
 
