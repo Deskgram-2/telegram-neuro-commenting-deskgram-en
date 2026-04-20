@@ -1,15 +1,15 @@
-# AI Telegram Commenting with Deskgram 2
+﻿# AI Telegram Commenting with Deskgram 2
 
 ![Neuro Commenting Main](assets/screenshots/neuro-commenting__main__en.png)
 
 Neuro Commenting is a Deskgram 2 module for automatic commenting on new Telegram channel posts. It combines post monitoring, template-based comments, AI-generated variations, limits, delays, discussion entry, and optional reply handling.
 
-[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview)
+[Deskgram 2 Hub](https://github.com/Deskgram-2/deskgram-2-telegram-automation-en) · [Website](https://deskgram2.com/) · [Telegram Bot](https://t.me/DG2welcomebot) · [Web Preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2F&lang=en)
 ## Interactive Web Preview
 
-[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
+[![Interactive Demo](https://img.shields.io/badge/DEMO-Try_in_Browser-brightgreen?style=for-the-badge&logo=google-chrome)](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting&lang=en)
 
-Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting)
+Try the module interface in the browser: [Open web preview](https://deskgram2.com/web-preview?path=%2Fapp-demo%2Ffunctions%2Fneurocommenting&lang=en)
 
 If you want to evaluate the interface before installing anything, open the web preview first: it helps you compare the module with nearby workflows and understand the section before setup.
 
@@ -137,3 +137,4 @@ No. You can work with a plain template-based flow. AI is an optional layer for b
 ### Can I target only selected channels?
 
 Yes. The module supports working from a predefined channel list.
+
